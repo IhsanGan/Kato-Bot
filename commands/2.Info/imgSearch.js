@@ -83,7 +83,7 @@ exports.conf = {
 
 exports.help = {
     name: 'img',
-    description: 'menambahkan status afk pada user',
-    usage: 'k!avatar [mention/userid/server]',
-    example: 'k!avatar @juned | k!avatar 458342161474387999 | k!avatar server'
+    description: 'mencari gambar dengan query',
+    usage: 'k!img [query]',
+    example: 'k!img kato megumi'
 }
